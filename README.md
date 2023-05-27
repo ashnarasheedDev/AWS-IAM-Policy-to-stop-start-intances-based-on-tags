@@ -11,7 +11,7 @@ IAM (Identity and Access Management) policies in cloud environments like AWS (Am
 
 Ultimately, the relevance of using an IAM policy to restart instances based on tags in a production environment depends on your specific use case, the nature of your application, and the operational requirements of your system.
 
-**Let's break down the policy I used and understand its configuration:
+**Let's break down the policy I used and understand its configuration:**
 
 This policy has two statements:
 
